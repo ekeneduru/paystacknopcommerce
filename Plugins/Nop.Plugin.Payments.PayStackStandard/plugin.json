@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Payment methods",
+  "FriendlyName": "PayStack Standard",
+  "SystemName": "Payments.PayStackStandard",
+  "Version": "1.0",
+  "SupportedVersions": [ "4.20" ],
+  "Author": "Ekene Duru",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Payments.PayStackStandard.dll",
+  "Description": "This plugin allows paying with PayStack Standard in Nigeria"
+}

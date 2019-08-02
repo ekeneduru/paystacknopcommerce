@@ -1,0 +1,20 @@
+﻿{
+  "InstalledPluginNames": [
+    "DiscountRequirement.MustBeAssignedToCustomerRole",
+    "CurrencyExchange.ECB",
+    "Misc.SendinBlue",
+    "Pickup.PickupInStore",
+    "Shipping.FixedByWeightByTotal",
+    "Shipping.UPS",
+    "Tax.Avalara",
+    "Tax.FixedOrByCountryStateZip",
+    "Widgets.GoogleAnalytics",
+    "Widgets.NivoSlider",
+    "ExternalAuth.Facebook",
+    "Payments.PayPalStandard",
+    "Payments.PayStackStandard"
+  ],
+  "PluginNamesToUninstall": [],
+  "PluginNamesToDelete": [],
+  "PluginNamesToInstall": []
+}
